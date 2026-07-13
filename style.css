@@ -319,3 +319,28 @@ footer p{
     animation:fadeUp .8s ease;
 
 }
+@media (max-width: 768px) {
+
+    nav {
+        flex-direction: column;
+    }
+
+    .hero h1 {
+        font-size: 2rem;
+    }
+
+    .hero p {
+        font-size: 1rem;
+    }
+
+    .btn {
+        display: block;
+        width: 90%;
+        margin: 10px auto;
+    }
+
+    section {
+        padding: 20px;
+    }
+
+}
