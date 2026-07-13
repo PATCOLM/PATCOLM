@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Books | PATCOLM</title>
+
+ <link rel="stylesheet" href="style.css">
+ <link rel="icon" type="image/png" href="logo.png">
+</head>
+
+<body>
+
+<header>
+
+<nav class="navbar">
+
+<div class="logo">
+    <img src="logo.png" alt="PATCOLM Logo">
+</div>
+
+<ul class="menu">
+
+<li><a href="index.html">Home</a></li>
+
+<li><a href="books.html">Books</a></li>
+
+<li><a href="news.html">News</a></li>
+
+<li><a href="projects.html">Projects</a></li>
+
+<li><a href="contact.html">Contact</a></li>
+
+</ul>
+
+</nav>
+
+</header>
+
+<section class="hero">
+
+<div class="container">
+<h1>Books</h1>
+
+<div class="book-card">
+
+    <h2>Coming Soon</h2>
+
+    <p>
+        Our official publications are coming soon.
+        <br><br>
+        PATCOLM is building a collection of books that reflect its vision and creativity.
+        Stay tuned for future releases.
+    </p>
+
+</div>
+
+
+</div>
+
+</section>
+<footer>
+
+<div class="container">
+
+<p>
+© <span id="year"></span> PATCOLM. All rights reserved.
+</p>
+
+</div>
+
+</footer>
+<script src="script.js"></script>
+
+</body>
+
+</html>
+
+ 

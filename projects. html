@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Projects | PATCOLM</title>
+
+<link rel="stylesheet" href="style.css">
+<link rel="icon" type="image/png" href="logo.png">
+</head>
+
+<body>
+
+<header>
+
+<nav class="navbar">
+
+<div class="logo">
+    <img src="logo.png" alt="PATCOLM Logo">
+</div>
+
+<ul class="menu">
+
+<li><a href="index.html">Home</a></li>
+
+<li><a href="books.html">Books</a></li>
+
+<li><a href="news.html">News</a></li>
+
+<li><a href="projects.html">Projects</a></li>
+
+<li><a href="contact.html">Contact</a></li>
+
+</ul>
+
+</nav>
+
+</header>
+
+<section class="hero">
+
+<div class="container">
+
+<h1>Projects</h1>
+
+<div class="book-card">
+
+<h2>Building the Future</h2>
+
+<p>
+
+PATCOLM continues to explore new ideas and opportunities.
+
+<br><br>
+
+Future projects will be announced here as they become available.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+<footer>
+
+<div class="container">
+
+<p>
+© <span id="year"></span> PATCOLM. All rights reserved.
+</p>
+
+</div>
+
+</footer>
+<script src="script.js"></script>
+
+</body>
+
+</html>

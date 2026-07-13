@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>PATCOLM</title>
+
+    <link rel="stylesheet" href="style.css">
+<link rel="icon" type="image/png" href="logo.png">
+</head>
+
+<body>
+
+ <header>
+    <nav class="navbar">
+
+ <div class="logo">
+    <img src="logo.png" alt="PATCOLM Logo">
+</div>
+
+
+<ul class="menu">
+
+ <li><a href="index.html">Home</a></li>
+
+<li><a href="book.html">Books</a>
+
+<li><a href="news.html">News</a></li>
+
+<li><a href="projects.html">Projects</a></li>
+
+<li><a href="contact.html">Contact</a></li>
+
+</ul>
+  
+    </nav>
+</header>
+<section class="hero">
+
+    <div class="container">
+
+        <h1>PATCOLM</h1>
+
+        <h2>
+            The Future Begins Here
+        </h2>
+<p>
+Turning ideas into reality.
+</p>
+
+        <a href="#" class="btn">
+            Explore PATCOLM
+        </a>
+
+    </div>7
+
+</section>
+<section class="overview">
+
+<section class="featured">
+
+    <div class="container">
+
+        <h2>Featured</h2>
+
+        <div class="book-card">
+
+            <h2>PATCOLM Chronicles</h2>
+
+            <p>
+
+                The flagship series under the PATCOLM brand.
+
+                <br><br>
+
+                Discover the beginning of a growing universe of stories,
+                ideas and future publications.
+
+            </p>
+
+            <a href="books.html" class="btn">
+
+                Explore Books
+
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+    <div class="container">
+
+        <h2>PATCOLM</h2>
+
+        <p>
+            Turning ideas into reality.
+        </p>
+
+    </div>
+
+</section>
+
+<section class="books">
+
+    <div class="container">
+<h2>Books & Publications</h2>
+
+<p>
+    Explore the PATCOLM Chronicles series and future publications released
+    under the PATCOLM brand.
+</p>
+
+<a href="#" class="btn">
+    Explore the Collection
+</a>
+
+    </div>
+
+</section>
+
+<section class="news">
+
+    <div class="container">
+
+        <h2>Latest News</h2>
+
+        <p>
+            Follow official PATCOLM announcements, company updates,
+            publications and future innovations.
+        </p>
+
+    </div>
+
+</section>
+<footer>
+
+<div class="container">
+
+<p>
+© <span id="year"></span> PATCOLM. All rights reserved.
+</p>
+
+</div>
+
+</footer>
+<script src="script.js"></script> 
+
+</body>
+</html>
